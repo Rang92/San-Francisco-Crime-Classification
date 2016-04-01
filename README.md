@@ -1,4 +1,4 @@
-# San-Francisco-Crime-Classification
+# San Francisco Crime Classification
 ###### Vrije Universiteit
 ###### Machine Learning
 ###### Kevin Rojer, Benjamin Havenaar, Chris Ras & Rang Salih
